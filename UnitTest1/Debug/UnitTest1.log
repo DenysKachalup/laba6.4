@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\AP\LABAP\6\laba6.4\laba6.4\Source.cpp(117,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека D:\AP\LABAP\6\laba6.4\Debug\UnitTest1.lib и объект D:\AP\LABAP\6\laba6.4\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\AP\LABAP\6\laba6.4\Debug\UnitTest1.dll
